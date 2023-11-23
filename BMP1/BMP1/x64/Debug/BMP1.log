@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Kirill\source\repos\BMP1\BMP1\bmp.h(49,11): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\bmp.h(57,11): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(209,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(215,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(221,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(227,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(233,61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(239,61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(298,82): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(333,67): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(335,127): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(352,121): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(353,126): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(403,82): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kirill\source\repos\BMP1\BMP1\main.cpp(485,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  BMP1.vcxproj -> C:\Users\Kirill\source\repos\BMP1\x64\Debug\BMP1.exe
